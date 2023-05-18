@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,windows,macos,linux,pycharm,data
 
 ### Data ###
-*.csv
+
 *.dat
 *.efx
 *.gbr
